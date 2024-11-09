@@ -20,7 +20,8 @@ GNU GENERAL PUBLIC LICENSE
 ### data folder
 Contains the raw data needed for the notebook examples.
 
-Credits:
+#### Credits:
+
 PtSe2_HAADF images: Credit Clara Kofler, recorded at 60kV in the Nion UltraSTEM 100 at the University of Vienna
 bacteria-growth.csv: Free data from https://zenodo.org/records/1171129
 housefly.txt: Original data from: Sokal, R.R. and P.E. Hunter. 1955. A morphometric analysis of DDT-resistant and non-resistant housefly strains Ann. Entomol. Soc. Amer. 48: 499-507. Accessed via https://seattlecentral.edu/qelp/sets/057/057.html
