@@ -4,6 +4,13 @@ This directory contains recources to help you get started with Python plotting a
 
 ## Contents
 
+### article.pdf
+Here you find an article originally written for the student newspaper \emph{Distribution} by the Faculty of Physics of the University of Vienna. 
+This gives context as well as instructions for getting a python environment and virtual environment set up. 
+
+### article folder
+The folder containing the raw LaTex files for the article.
+
 ### data-analysis-tutorial.ipynb
 A jupyter notebook to give you a quickstart for simple data plotting and analysis. The packages numpy, scipy, matplotlib and tabulate are needed.
 Feel free to play around with the code.
